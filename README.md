@@ -28,12 +28,9 @@
 
 ### 1. Install
 ```bash
-# Via ClawHub (easiest)
-clawhub install chengbot/skill-scanner
-
-# Or manually
+# Install
 cd ~/.openclaw/workspace/skills
-git clone https://github.com/chengbot/skill-scanner.git
+git clone https://github.com/crabcoder2026-cell/openclaw-skill-scaner
 cd skill-scanner && chmod +x scripts/*.sh
 ```
 
